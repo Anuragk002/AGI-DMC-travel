@@ -1,0 +1,9 @@
+.ak {
+  /* background-image: url("./images/buildings.jpg"); */
+  opacity: 0.9;
+  background-color: #d0d3d4;
+}
+
+.common-image {
+  border-radius: 15px;
+}
