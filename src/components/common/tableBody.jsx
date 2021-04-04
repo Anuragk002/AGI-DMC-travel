@@ -64,13 +64,7 @@ class TableBody extends Component {
                     <span className="product-new-label">Offer</span>
                     <span className="product-discount-label">20%</span>
                   </div>
-                  <ul className="rating">
-                    <li className="fa fa-star" />
-                    <li className="fa fa-star" />
-                    <li className="fa fa-star" />
-                    <li className="fa fa-star" />
-                    <li className="fa fa-star disable" />
-                  </ul>
+
                   <div className="product-content">
                     <h3 className="title">
                       <a href="#">{item.title}</a>

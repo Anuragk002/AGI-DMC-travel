@@ -21,7 +21,8 @@ body {
   z-index: 1;
   box-shadow: 0 3px 20px rgba(0, 0, 0, 0.08);
   margin-bottom: 15px;
-  border-radius: 10px;
+  border-color: rgb(167, 165, 165);
+  border-radius: 15px;
 }
 .product-grid .product-image {
   position: relative;
